@@ -2,13 +2,7 @@
   
 ###
 * **وحید یوسفیم**
-* توسعه دهنده اندروید با زبان کاتلین کار میکنم، از اردیبهشت 1404 شروع کردم و در حال یــــادگیریم ... </h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vahidyousefi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+* توسعه دهنده اندروید با زبان کاتلین ، از اردیبهشت 1404 شروع کردم و در حال یــــادگیریم ... </h2>
 
 ###
 
