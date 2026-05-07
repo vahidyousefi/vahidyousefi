@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋! My name is Vahid Yousefi, Android Developer.
+<h2 align="left">Hi 👋! My name is Vahid Yousefi and a Android Developer.
   
 ###
-* **وحید یوسفیم**
-* توسعه دهنده اندروید با زبان کاتلین ، از اردیبهشت 1404 شروع کردم و در حال یــــادگیریم ... </h2>
 
 ###
 
