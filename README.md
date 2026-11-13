@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vahid Yousefi and a Android Developer.
+<h2 align="left">Hi 👋! My name is Vahid Yousefi and an Android Developer.
   
 ###
 
