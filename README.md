@@ -27,13 +27,14 @@ I enjoy exploring new technologies, writing clean and maintainable code, and cre
 
 **Android Development**
 
-- Kotlin
-- Jetpack Compose
-- Android Media3
-- Navigation Compose
-- Kotlin Coroutines
-- MVVM Architecture
-- Koin Dependency Injection
+- **Languages:** Kotlin
+- **UI:** Jetpack Compose, XML
+- **Architecture:** MVVM, Koin
+- **Networking:** REST API, Retrofit
+- **Database:** Room
+- **Asynchronous:** Kotlin Coroutines, Flow
+- **Android:** Android SDK, Media3, Navigation Compose
+- **Notifications:** Push Notifications
 
 ---
 
