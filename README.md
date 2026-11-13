@@ -22,7 +22,7 @@ I enjoy exploring new technologies, writing clean and maintainable code, and cre
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,androidstudio,vscode,gradle,firebase,postman" alt="Tech Stack" />
 </p>
 
 **Android Development**
